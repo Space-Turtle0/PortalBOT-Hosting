@@ -1,32 +1,32 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: Space-Turtle0 # Your GitHub username
+repo: PortalBOT-Hosting # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: STABLE
+    url: $PORTALBOT_STABLE
+    icon: https://media.discordapp.net/attachments/796137662317854760/796137738583146556/Nether_Portal_Avatargreen.png
+    NOTIFICATION_DISCORD: true
+    NOTIFICATION_DISCORD_WEBHOOK: true
+    NOTIFICATION_DISCORD_WEBHOOK_URL: $URL
+    
+  - name: BETA
+    url: $PORTALBOT_BETA
+    icon: https://cdn.discordapp.com/attachments/796137662317854760/796137745046437908/Portal_Design.png
+    NOTIFICATION_DISCORD: true
+    NOTIFICATION_DISCORD_WEBHOOK: true
+    NOTIFICATION_DISCORD_WEBHOOK_URL: $URL
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
+  baseUrl: /PortalBOT-Hosting
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime** is recording PortalBOT's uptime!"
+  introMessage: Tracking PortalBOT Stable and PortalBOT Beta!
   navbar:
     - title: Status
       href: /
