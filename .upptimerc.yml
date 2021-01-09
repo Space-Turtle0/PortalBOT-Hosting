@@ -7,16 +7,10 @@ sites:
   - name: STABLE
     url: $PORTALBOT_STABLE
     icon: https://media.discordapp.net/attachments/796137662317854760/796137738583146556/Nether_Portal_Avatargreen.png
-    NOTIFICATION_DISCORD: true
-    NOTIFICATION_DISCORD_WEBHOOK: true
-    NOTIFICATION_DISCORD_WEBHOOK_URL: $URL
     
   - name: BETA
     url: $PORTALBOT_BETA
     icon: https://cdn.discordapp.com/attachments/796137662317854760/796137745046437908/Portal_Design.png
-    NOTIFICATION_DISCORD: true
-    NOTIFICATION_DISCORD_WEBHOOK: true
-    NOTIFICATION_DISCORD_WEBHOOK_URL: $URL
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
