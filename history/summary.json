@@ -38,7 +38,7 @@
     "url": "$PORTALBOT_BETA",
     "icon": "https://cdn.discordapp.com/attachments/796137662317854760/796137745046437908/Portal_Design.png",
     "slug": "beta",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -50,6 +50,7 @@
     "timeMonth": 535,
     "timeYear": 408,
     "dailyMinutesDown": {
+      "2021-03-07": 0,
       "2021-02-25": 17,
       "2021-02-24": 23,
       "2021-02-13": 17,
