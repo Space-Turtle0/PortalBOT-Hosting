@@ -4,7 +4,7 @@
     "url": "$PORTALBOT_STABLE",
     "icon": "https://media.discordapp.net/attachments/796137662317854760/796137738583146556/Nether_Portal_Avatargreen.png",
     "slug": "stable",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
