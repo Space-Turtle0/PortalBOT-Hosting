@@ -1,7 +1,7 @@
 url: $PORTALBOT_STABLE
-status: up
-code: 200
-responseTime: 199
-lastUpdated: 2021-06-22T23:13:08.283Z
+status: down
+code: 404
+responseTime: 5873
+lastUpdated: 2021-06-23T16:27:57.764Z
 startTime: Sat Jan 09 2021 19:01:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
